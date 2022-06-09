@@ -44,6 +44,9 @@ Parameters:
     Default: 17.1.0
     AllowedValues:
       - 17.1.0
+      - 200
+      - 21.1.0
+      - 21.0.0
   AWXGitHubRepo:
     Description: Which github should we use as the source for the build
     Type: String
