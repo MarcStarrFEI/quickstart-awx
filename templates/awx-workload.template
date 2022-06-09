@@ -127,6 +127,9 @@ Parameters:
     Default: 17.1.0
     AllowedValues:
       - 17.1.0
+      - 200
+      - 21.1.0
+      - 21.0.0
   AWXAdminPassword:
     Description: AWX Admin Password. Required
     Type: String
